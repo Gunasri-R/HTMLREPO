@@ -1,0 +1,21 @@
+h1{
+    font-size: 24px;
+    color: darkblue;
+    text-align: center;
+}
+.employee-name
+{
+    font-weight: bold;
+    color: green;
+    text-align: left;
+}
+#ceo
+{
+    font-size: 20px;
+    color:black;
+    background-color: aquamarine;
+}
+button{
+    background-color: blue;
+    text color: white;
+}
