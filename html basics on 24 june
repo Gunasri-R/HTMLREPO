@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gunasri's Resume</title>
+</head>
+<body>
+  <header>
+    <h1>Resume</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="About">About</a></li>
+      <li><a href="skills">Skills</a></li>
+      <li><a href="projects">Projects</a></li>
+      <li><a href="contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section>
+    <h1>Your Name</h1>
+    <img src="https://www.shutterstock.com/image-vector/default-avatar-profile-icon-transparent-260nw-2463868853.jpg">
+    <p>
+      Hello everyone, I am Gunasri. I am currently pursuing my 2nd year of B.Sc. Computer Technology at KG College of Arts and Science.
+    </p>
+    <a href="">Download Resume</a><br>
+    <a href="">Contact Me</a>
+  </section>
+ <section id="About">
+    <h2>About</h2>
+    <p>College student</p>
+  </section>
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>Java</li>
+    </ul>
+  </section>
+<section id="projects">
+    <h2>Projects</h2>
+    <div>
+        
+    </div>
+  </section>
+<section id="contact">
+    <h2>Contact</h2>
+</section>
+<form>
+    <input type="text" id="name" placeholder="enter a name"><br>
+    <input type="text" id="Email" placeholder="enter a Email"><br>
+    <label>message</label>
+    <textarea rows="5" cols
+    <input type="button" 
+</form>
+</body>
+</html>
