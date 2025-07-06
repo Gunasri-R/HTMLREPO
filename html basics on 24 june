@@ -57,14 +57,6 @@
       <h3>Project One</h3>
       <p>A brief description of the first project.</p>
     </div>
-    <div class="project">
-      <h3>Project Two</h3>
-      <p>A brief description of the second project.</p>
-    </div>
-    <div class="project">
-      <h3>Project Three</h3>
-      <p>A brief description of the third project.</p>
-    </div>
   </section>
 
   <section id="contact">
